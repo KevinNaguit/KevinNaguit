@@ -1,4 +1,6 @@
-## Hi there, I'm Kevin 👋
+# Hi there, I'm Kevin 👋
+
+## I'm an aspiring Front End/Full-Stack Developer based in Montreal, QC
 
 <!--
 **KevinNaguit/KevinNaguit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
