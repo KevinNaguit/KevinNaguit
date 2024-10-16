@@ -2,6 +2,8 @@
 
 ## I'm an aspiring Front End/Full-Stack Developer based in Montreal, QC
 
+📫 Reach me at [kevin.naguit@gmail.com](kevin.naguit@gmail.com) or [www.linkedin.com/in/kevinnaguit](www.linkedin.com/in/kevinnaguit)
+
 <!--
 **KevinNaguit/KevinNaguit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
